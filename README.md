@@ -19,6 +19,7 @@
 
 - `docs/00-reading-map.md`：阅读地图
 - `docs/01-*.md`：首批概念型材料
+- `daily/`：后续每天自动新增的阅读材料
 - `references/user-roadmaps/`：你当前这轮转型过程中形成的路线文档归档
 - `templates/daily-reading-template.md`：后续每天新增材料的模板
 

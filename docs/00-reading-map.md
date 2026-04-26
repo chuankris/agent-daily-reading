@@ -28,6 +28,18 @@
 8. `08-fastapi-tutorial.md`
 目的：把阅读转到代码承载层，为 Python 工程化铺路。
 
+9. `09-agent-evals.md`
+目的：建立“Agent 不是感觉好用，而是要可重复评估”的意识。
+
+10. `10-observability.md`
+目的：理解为什么 Agent 系统必须有 trace、metrics、token usage、tool 观测。
+
+11. `11-spring-ai-bridge.md`
+目的：把你现有 Java/Spring 经验桥接到 Agent 工程里。
+
+12. `12-spring-ai-mcp.md`
+目的：理解 Java 生态里 MCP 怎么落地，帮助你避免只会 Python 视角。
+
 阅读原则：
 
 1. 每篇先看 `为什么今天读这个`
