@@ -101,6 +101,9 @@
 1. 哪些字段是必须的？
 2. 哪些字段如果多出来，后端应该直接拒绝？
 
-原文中文翻译链接（机器翻译，放在“问自己两个问题”后）：
+原文关键段落翻译（人工翻译，放在文末）：
 
-- 中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://developers.openai.com/api/docs/guides/structured-outputs
+1. Structured Outputs 的目标是让模型输出严格匹配你定义的结构，而不仅是“看起来像 JSON”。
+2. 普通 JSON mode 能提升输出为 JSON 的概率，但不能保证字段完整、类型正确和约束满足。
+3. Schema 设计是结果质量的一部分。字段命名、描述、必填约束和枚举范围都会影响模型生成稳定性。
+4. 当结果要进入下游系统（数据库、工具、工作流）时，结构化输出可以显著降低解析失败和恢复成本。

@@ -119,9 +119,10 @@ Agent 的很多工具调用都依赖检索结果做决策。RAG 链路稳定，A
 4. 检索是向量、关键词还是混合  
 5. 你打算先看哪 3 个指标
 
-原文中文翻译链接（机器翻译，放在“问自己两个问题”后）：
+原文关键段落翻译（人工翻译，放在文末）：
 
-- RAG 论文中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://arxiv.org/abs/2005.11401
-- Spring AI RAG 中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://docs.spring.io/spring-ai/reference/api/retrieval-augmented-generation.html
-- ETL Pipeline 中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://docs.spring.io/spring-ai/reference/1.0/api/etl-pipeline.html
-- Embedding 模型中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://platform.openai.com/docs/models/text-embedding-3-large
+1. RAG 的基本思想是把参数化知识与外部可检索知识结合，以提升知识密集型任务的事实性和可更新性。
+2. 检索增强系统的质量取决于整个链路：数据处理、索引构建、检索策略、上下文组装与生成协同。
+3. Embedding 负责语义表示，但最终效果还依赖分片策略、索引质量和检索后排序过程。
+4. 在工程实践中，常需要混合检索和重排序来平衡召回率、精确率、延迟和成本。
+5. 高质量 RAG 不是单模型问题，而是一个可评测、可观测、可迭代的系统工程问题。
