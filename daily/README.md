@@ -18,3 +18,9 @@
 
 1. 平时优先看 `docs/` 打基础
 2. 碎片时间穿插看 `daily/` 跟进新内容
+
+最近新增：
+
+- `2026-04-27-uv-python-projects.md`
+- `2026-04-27-structured-outputs.md`
+- `2026-04-26-evaluation-best-practices.md`
