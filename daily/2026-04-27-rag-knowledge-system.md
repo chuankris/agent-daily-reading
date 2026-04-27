@@ -119,3 +119,9 @@ Agent 的很多工具调用都依赖检索结果做决策。RAG 链路稳定，A
 4. 检索是向量、关键词还是混合  
 5. 你打算先看哪 3 个指标
 
+原文中文翻译链接（机器翻译，放在“问自己两个问题”后）：
+
+- RAG 论文中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://arxiv.org/abs/2005.11401
+- Spring AI RAG 中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://docs.spring.io/spring-ai/reference/api/retrieval-augmented-generation.html
+- ETL Pipeline 中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://docs.spring.io/spring-ai/reference/1.0/api/etl-pipeline.html
+- Embedding 模型中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://platform.openai.com/docs/models/text-embedding-3-large

@@ -93,3 +93,7 @@
 - 预期输出
 - 是否涉及工具
 - 失败时你要看什么日志
+
+原文中文翻译链接（机器翻译，放在“问自己两个问题”后）：
+
+- 中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://platform.openai.com/docs/guides/evaluation-best-practices

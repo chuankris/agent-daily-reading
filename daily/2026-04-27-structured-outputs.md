@@ -100,3 +100,7 @@
 
 1. 哪些字段是必须的？
 2. 哪些字段如果多出来，后端应该直接拒绝？
+
+原文中文翻译链接（机器翻译，放在“问自己两个问题”后）：
+
+- 中文翻译入口：https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://developers.openai.com/api/docs/guides/structured-outputs
