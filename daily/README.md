@@ -22,6 +22,8 @@
 
 最近新增：
 
+- `2026-04-27-rag-knowledge-system.md`
+- `2026-04-27-spring-ai-agent-guide.md`
 - `2026-04-27-uv-python-projects.md`
 - `2026-04-27-structured-outputs.md`
 - `2026-04-26-evaluation-best-practices.md`
