@@ -126,3 +126,10 @@ Agent 的很多工具调用都依赖检索结果做决策。RAG 链路稳定，A
 3. Embedding 负责语义表示，但最终效果还依赖分片策略、索引质量和检索后排序过程。
 4. 在工程实践中，常需要混合检索和重排序来平衡召回率、精确率、延迟和成本。
 5. 高质量 RAG 不是单模型问题，而是一个可评测、可观测、可迭代的系统工程问题。
+
+原文中文翻译链接（机器翻译）：
+
+- https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://arxiv.org/abs/2005.11401
+- https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://docs.spring.io/spring-ai/reference/api/retrieval-augmented-generation.html
+- https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://docs.spring.io/spring-ai/reference/1.0/api/etl-pipeline.html
+- https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://platform.openai.com/docs/models/text-embedding-3-large

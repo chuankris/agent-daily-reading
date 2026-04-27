@@ -107,3 +107,7 @@
 2. 普通 JSON mode 能提升输出为 JSON 的概率，但不能保证字段完整、类型正确和约束满足。
 3. Schema 设计是结果质量的一部分。字段命名、描述、必填约束和枚举范围都会影响模型生成稳定性。
 4. 当结果要进入下游系统（数据库、工具、工作流）时，结构化输出可以显著降低解析失败和恢复成本。
+
+原文中文翻译链接（机器翻译）：
+
+- https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://developers.openai.com/api/docs/guides/structured-outputs

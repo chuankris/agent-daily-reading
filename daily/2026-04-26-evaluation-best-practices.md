@@ -100,3 +100,7 @@
 2. 不要只用演示数据做评测。应优先使用接近真实用户请求的数据集，并持续补充失败样本与边界样本。
 3. 复杂 Agent 需要分层评估。不要只看最终答案，还要评估工具调用、检索质量、路由行为、延迟和成本。
 4. 仅靠主观感觉会误导迭代方向。评测要和可观测数据、人工反馈结合，才能形成可信的改进依据。
+
+原文中文翻译链接（机器翻译）：
+
+- https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://platform.openai.com/docs/guides/evaluation-best-practices
