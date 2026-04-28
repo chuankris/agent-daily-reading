@@ -22,6 +22,7 @@
 
 最近新增：
 
+- `2026-04-28-mcp-lifecycle-and-transport.md`
 - `2026-04-27-rag-knowledge-system.md`
 - `2026-04-27-spring-ai-agent-guide.md`
 - `2026-04-27-uv-python-projects.md`
