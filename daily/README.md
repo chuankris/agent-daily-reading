@@ -22,6 +22,7 @@
 
 最近新增：
 
+- `2026-04-30-skill-guide-and-open-source-learning.md`
 - `2026-04-30-pyproject-and-pytest-layout.md`
 - `2026-04-29-agent-evals-and-tracing.md`
 - `2026-04-28-mcp-lifecycle-and-transport.md`
