@@ -22,6 +22,12 @@
 
 最近新增：
 
+- `2026-05-06-mcp-roots-and-sampling.md`
+- `2026-05-05-mcp-resources-and-prompts.md`
+- `2026-05-04-tool-calling-and-mcp-tools-contract.md`
+- `2026-05-03-fastapi-lifespan-and-dependencies.md`
+- `2026-05-02-asyncio-taskgroup-and-cancellation.md`
+- `2026-05-01-pytest-fixtures-and-monkeypatch.md`
 - `2026-04-30-skill-guide-and-open-source-learning.md`
 - `2026-04-30-pyproject-and-pytest-layout.md`
 - `2026-04-29-agent-evals-and-tracing.md`
