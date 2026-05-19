@@ -21,4 +21,5 @@
 
 最近新增：
 
+- `2026-05-19-ai-radar-10-items-and-1-deep-dive.md`
 - `2026-05-19-codex-hybrid-onprem-enterprise.md`
