@@ -20,6 +20,7 @@
 
 最新新增：
 
+- `2026-05-21-asyncio-semaphore-as-completed-and-to-thread.md`
 - `2026-05-20-openapi-schema-first-tools.md`
 - `2026-05-19-httpx-timeout-retry-and-backoff.md`
 - `2026-05-18-asyncio-queue-backpressure-and-timeouts.md`
