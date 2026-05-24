@@ -1,7 +1,6 @@
 # Daily
 
 这里放后续自动新增的每日阅读材料。
-
 命名规则：
 - `YYYY-MM-DD-topic.md`
 
@@ -20,6 +19,9 @@
 
 最新新增：
 
+- `2026-05-24-annotated-and-tool-metadata.md`
+- `2026-05-23-inspect-signature-and-pep-362.md`
+- `2026-05-22-subprocess-and-asyncio-subprocess.md`
 - `2026-05-21-asyncio-semaphore-as-completed-and-to-thread.md`
 - `2026-05-20-openapi-schema-first-tools.md`
 - `2026-05-19-httpx-timeout-retry-and-backoff.md`

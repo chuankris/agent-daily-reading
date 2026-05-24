@@ -21,6 +21,8 @@
 
 最近新增：
 
+- `2026-05-23-managed-agents-production-shift.md`
+- `2026-05-22-connection-and-eval-shift.md`
 - `2026-05-21-agent-platform-shift.md`
 - `2026-05-20-ai-radar-10-items-and-1-deep-dive.md`
 - `2026-05-19-ai-radar-10-items-and-1-deep-dive.md`
