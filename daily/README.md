@@ -19,6 +19,7 @@
 
 最新新增：
 
+- `2026-05-25-unittest-mock-for-agent-tests.md`
 - `2026-05-24-annotated-and-tool-metadata.md`
 - `2026-05-23-inspect-signature-and-pep-362.md`
 - `2026-05-22-subprocess-and-asyncio-subprocess.md`
