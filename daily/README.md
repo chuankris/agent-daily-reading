@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-05-28-w3c-trace-context-and-agent-tracing.md`
 - `2026-05-27-importlib-metadata-entry-points.md`
 - `2026-05-26-paramspec-and-wraps-for-tool-decorators.md`
 - `2026-05-25-unittest-mock-for-agent-tests.md`
