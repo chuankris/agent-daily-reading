@@ -1,7 +1,6 @@
 # Daily
 
-这里放后续自动新增的每日阅读材料。
-命名规则：
+这里放后续自动新增的每日阅读材料。命名规则：
 - `YYYY-MM-DD-topic.md`
 
 和 `docs/` 的区别：
@@ -19,6 +18,8 @@
 
 最新新增：
 
+- `2026-05-27-importlib-metadata-entry-points.md`
+- `2026-05-26-paramspec-and-wraps-for-tool-decorators.md`
 - `2026-05-25-unittest-mock-for-agent-tests.md`
 - `2026-05-24-annotated-and-tool-metadata.md`
 - `2026-05-23-inspect-signature-and-pep-362.md`

@@ -21,6 +21,7 @@
 
 最近新增：
 
+- `2026-05-26-workspace-runtime-and-jvm-bridge.md`
 - `2026-05-25-runtime-and-connectivity-shift.md`
 - `2026-05-24-google-io-agent-stack-shift.md`
 - `2026-05-23-managed-agents-production-shift.md`
