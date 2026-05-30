@@ -21,6 +21,7 @@
 
 最近新增：
 
+- `2026-05-29-managed-runtime-and-governance-shift.md`
 - `2026-05-28-system-eval-and-agent-productivity-shift.md`
 - `2026-05-27-managed-agents-and-containment-shift.md`
 - `2026-05-26-workspace-runtime-and-jvm-bridge.md`

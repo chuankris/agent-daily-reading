@@ -18,6 +18,8 @@
 
 最新新增：
 
+- `2026-05-30-opentelemetry-genai-agent-semantic-conventions.md`
+- `2026-05-29-json-rpc-and-mcp-base-protocol.md`
 - `2026-05-28-w3c-trace-context-and-agent-tracing.md`
 - `2026-05-27-importlib-metadata-entry-points.md`
 - `2026-05-26-paramspec-and-wraps-for-tool-decorators.md`
