@@ -21,13 +21,13 @@
 
 最近新增：
 
+- `2026-06-02-connection-layer-and-stateless-runtime-shift.md`
+- `2026-06-01-agent-control-plane-and-managed-runtime-shift.md`
+- `2026-05-31-browser-agent-and-governed-runtime-shift.md`
+- `2026-05-30-agent-surface-and-runtime-convergence.md`
 - `2026-05-29-managed-runtime-and-governance-shift.md`
 - `2026-05-28-system-eval-and-agent-productivity-shift.md`
 - `2026-05-27-managed-agents-and-containment-shift.md`
 - `2026-05-26-workspace-runtime-and-jvm-bridge.md`
 - `2026-05-25-runtime-and-connectivity-shift.md`
 - `2026-05-24-google-io-agent-stack-shift.md`
-- `2026-05-23-managed-agents-production-shift.md`
-- `2026-05-22-connection-and-eval-shift.md`
-- `2026-05-21-agent-platform-shift.md`
-- `2026-05-20-ai-radar-10-items-and-1-deep-dive.md`

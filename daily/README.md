@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-06-02-asyncio-sync-primitives.md`
 - `2026-06-01-asyncio-timeout-and-wait-for.md`
 - `2026-05-31-agent-evals-trace-and-datasets.md`
 - `2026-05-30-opentelemetry-genai-agent-semantic-conventions.md`
