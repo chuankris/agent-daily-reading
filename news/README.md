@@ -21,6 +21,8 @@
 
 最近新增：
 
+- `2026-06-04-agent-workbench-and-governed-execution.md`
+- `2026-06-03-cloud-entry-and-managed-agent-stack-shift.md`
 - `2026-06-02-connection-layer-and-stateless-runtime-shift.md`
 - `2026-06-01-agent-control-plane-and-managed-runtime-shift.md`
 - `2026-05-31-browser-agent-and-governed-runtime-shift.md`
