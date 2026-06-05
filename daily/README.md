@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-06-05-asyncio-runners-and-policy-deprecation.md`
 - `2026-06-04-asyncio-debug-mode-and-exception-handler.md`
 - `2026-06-03-asyncio-task-vs-concurrent-future.md`
 - `2026-06-02-asyncio-sync-primitives.md`

@@ -21,6 +21,7 @@
 
 最近新增：
 
+- `2026-06-05-agent-workbench-and-local-runtime-convergence.md`
 - `2026-06-04-agent-workbench-and-governed-execution.md`
 - `2026-06-03-cloud-entry-and-managed-agent-stack-shift.md`
 - `2026-06-02-connection-layer-and-stateless-runtime-shift.md`
