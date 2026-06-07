@@ -21,6 +21,7 @@
 
 最近新增：
 
+- `2026-06-07-model-upgrades-and-production-agent-loop-shift.md`
 - `2026-06-06-governed-runtime-and-observable-agent-ops.md`
 - `2026-06-05-agent-workbench-and-local-runtime-convergence.md`
 - `2026-06-04-agent-workbench-and-governed-execution.md`
