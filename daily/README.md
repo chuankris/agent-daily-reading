@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-06-11-opentelemetry-context-propagation-and-manual-instrumentation.md`
 - `2026-06-10-queuehandler-and-queuelistener.md`
 - `2026-06-09-queue-shutdown-and-graceful-drain.md`
 - `2026-06-07-asyncio-cross-thread-handoff-and-background-tasks.md`
