@@ -18,6 +18,8 @@
 
 最新新增：
 
+- `2026-06-13-mcp-tools-contract-and-python-agent-integration.md`
+- `2026-06-12-w3c-baggage-and-opentelemetry-baggage.md`
 - `2026-06-11-opentelemetry-context-propagation-and-manual-instrumentation.md`
 - `2026-06-10-queuehandler-and-queuelistener.md`
 - `2026-06-09-queue-shutdown-and-graceful-drain.md`

@@ -21,6 +21,8 @@
 
 最近新增：
 
+- `2026-06-13-harness-abstraction-and-security-first-agent-workflows.md`
+- `2026-06-12-semantic-grounding-and-repeatable-agent-workflows.md`
 - `2026-06-11-runtime-bridge-and-agent-workflow-instrumentation.md`
 - `2026-06-10-model-safety-gates-and-agent-control-plane.md`
 - `2026-06-09-local-agent-runtime-and-agent-experience-acceleration.md`
