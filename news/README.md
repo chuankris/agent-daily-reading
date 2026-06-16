@@ -21,6 +21,7 @@
 
 最近新增：
 
+- `2026-06-16-frontier-model-access-shock-and-agent-harness-convergence.md`
 - `2026-06-14-delegation-discipline-and-governed-agent-runtimes.md`
 - `2026-06-13-harness-abstraction-and-security-first-agent-workflows.md`
 - `2026-06-12-semantic-grounding-and-repeatable-agent-workflows.md`

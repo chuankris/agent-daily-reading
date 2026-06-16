@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-06-16-pytest-parametrize-and-import-mode-for-agent-evals.md`
 - `2026-06-14-behavior-driven-evals-and-agent-improvement-loop.md`
 - `2026-06-13-mcp-tools-contract-and-python-agent-integration.md`
 - `2026-06-12-w3c-baggage-and-opentelemetry-baggage.md`
