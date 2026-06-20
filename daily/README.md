@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-06-21-spring-ai-mcp-client-bridge.md`
 - `2026-06-20-pydantic-settings-for-agent-config.md`
 - `2026-06-19-pytest-asyncio-loop-scope-and-modes.md`
 - `2026-06-17-pytest-caplog-and-tmp-path-for-agent-tests.md`
