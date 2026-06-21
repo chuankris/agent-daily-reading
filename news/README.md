@@ -21,6 +21,7 @@
 
 最近新增：
 
+- `2026-06-21-runtime-productization-and-guardrails.md`
 - `2026-06-20-agent-discovery-and-trust-stack.md`
 - `2026-06-17-runtime-governance-and-harness-convergence.md`
 - `2026-06-16-frontier-model-access-shock-and-agent-harness-convergence.md`
