@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-06-25-eval-backed-agent-engineering-loop.md`
 - `2026-06-24-openai-agents-orchestration-and-sessions.md`
 - `2026-06-22-mcp-python-sdk-server.md`
 - `2026-06-21-spring-ai-mcp-client-bridge.md`
