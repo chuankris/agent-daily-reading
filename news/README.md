@@ -16,6 +16,8 @@
 
 最近新增：
 
+- `2026-06-25-agent-eval-and-byok-governance.md`
+
 - `2026-06-24-agent-workbench-and-structured-ingestion.md`
 - `2026-06-22-persistent-agent-workspaces-and-discovery-layer.md`
 - `2026-06-21-runtime-productization-and-guardrails.md`
