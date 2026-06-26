@@ -16,6 +16,7 @@
 
 最近新增：
 
+- `2026-06-26-meta-harness-and-enterprise-agent-stack.md`
 - `2026-06-25-agent-eval-and-byok-governance.md`
 
 - `2026-06-24-agent-workbench-and-structured-ingestion.md`
