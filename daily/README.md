@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-07-06-strict-tool-contracts-and-mcp-client-boundaries.md`
 - `2026-07-05-mcp-oauth-client-credentials.md`
 - `2026-06-26-mcp-tool-annotations-and-risk-boundaries.md`
 - `2026-06-25-eval-backed-agent-engineering-loop.md`
