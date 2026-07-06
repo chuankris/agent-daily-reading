@@ -16,6 +16,7 @@
 
 最近新增：
 
+- `2026-07-06-predeployment-eval-and-multi-model-agent-stack.md`
 - `2026-07-05-model-refresh-and-agent-discovery-stack.md`
 - `2026-06-26-meta-harness-and-enterprise-agent-stack.md`
 - `2026-06-25-agent-eval-and-byok-governance.md`
