@@ -16,6 +16,7 @@
 
 最近新增：
 
+- `2026-07-10-eval-governance-and-model-routing-shift.md`
 - `2026-07-09-frontier-models-and-agent-control-layers.md`
 - `2026-07-08-hosted-agents-and-governed-workflow-stack.md`
 - `2026-07-06-predeployment-eval-and-multi-model-agent-stack.md`
