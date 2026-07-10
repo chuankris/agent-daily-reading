@@ -18,6 +18,7 @@
 
 最新新增：
 
+- `2026-07-11-eval-graders-as-executable-acceptance.md`
 - `2026-07-10-stateless-mcp-migration.md`
 - `2026-07-08-agent-tracing-and-genai-observability.md`
 - `2026-07-06-strict-tool-contracts-and-mcp-client-boundaries.md`
